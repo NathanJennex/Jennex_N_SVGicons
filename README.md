@@ -1,1 +1,1 @@
-# Jennex_N_SVGicons
+Working with JavaScript and displaying icons
